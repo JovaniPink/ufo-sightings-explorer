@@ -1,12 +1,12 @@
 {
-  "name": "ufos",
+  "name": "ufo-sightings-explorer",
   "version": "1.0.0",
   "description": "Creating a filterable table to display the UFO data.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JovaniPink/ufos.git"
+    "url": "git+https://github.com/JovaniPink/ufo-sightings-explorer.git"
   },
-  "homepage": "https://github.com/JovaniPink/ufos#readme",
+  "homepage": "https://github.com/JovaniPink/ufo-sightings-explorer#readme",
   "scripts": {
     "dev": "vite",
     "build": "vite build --outDir docs --base ./",
