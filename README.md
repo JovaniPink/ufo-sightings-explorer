@@ -23,8 +23,7 @@ Be sure to have [Node.js](https://nodejs.org/) installed before proceeding.
 
 ```shell
 # Clone the repo
-cd ufos
-
+cd ufo-sightings-explorer
 # Install dependencies
 npm i
 
@@ -36,7 +35,7 @@ Open <http://localhost:1234> to see the page in action.
 
 ## Overview of Project
 
-UFOs is all about using D3.js and the [data](https://github.com/JovaniPink/ufos/blob/master/static/js/data.js) provided to all users dynamically search the data through a website [UFOs](https://jovanipink.github.io/ufos/). Users are able to get a more in-depth analysis of UFO sightings by allowing them to filter for multiple criteria at the same time and view the number of data points.
+UFOs is all about using D3.js and the [data](https://github.com/JovaniPink/ufo-sightings-explorer/blob/master/static/js/data.js) provided to all users dynamically search the data through a website [UFOs](https://jovanipink.github.io/ufos/). Users are able to get a more in-depth analysis of UFO sightings by allowing them to filter for multiple criteria at the same time and view the number of data points.
 
 ## Summary
 
@@ -94,3 +93,6 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+Repository: [JovaniPink/ufo-sightings-explorer](https://github.com/JovaniPink/ufo-sightings-explorer). Local checkout: `ufo-sightings-explorer`.
+The previous GitHub Pages address remains a compatibility website. Source code and issues now belong to the renamed repository.
